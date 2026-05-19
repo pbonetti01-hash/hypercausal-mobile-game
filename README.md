@@ -25,6 +25,6 @@ Este repositório contém a demonstração do **Core Loop (mecanismo principal d
 
 ## 🛠️ Requisitos Técnicos
 
-* **Engine:** Unity (Desenvolvido com foco em plataformas Mobile Android/iOS).
+* **Engine:** Unity (Desenvolvido com foco em plataformas Mobile Android).
 * **Input:** Configurado para detecção de arrasto por toque na tela.
 * **Renderização:** Transição de cores em tempo de execução para o efeito do ciclo dia/noite.
