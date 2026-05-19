@@ -14,23 +14,6 @@ Este repositório contém a demonstração do **Core Loop (mecanismo principal d
 * **Objetivo:** Não há pontuação por itens ou eliminação. O único objetivo é a **sobrevivência por tempo** (cronômetro).
 * **Ciclo Dia e Noite:** O ambiente passa por transições visuais de iluminação para simular o ciclo de tempo no planeta Marte durante a partida.
 
----
-
-[ Tiro ou Cura surge nas extremidades ]
-                  │
-                  ▼
-   [ Movimento em direção ao Centro ]
-                  │
-     💥 (Colisão com o Escudo?)
-    ├─── SIM ──► [ É Tiro? ] ──► Bloqueado com sucesso!
-    │            [ É Cura? ] ──► Destruída (Chance perdida)!
-    │
-    └─── NÃO ──► [ Impacto no Núcleo ]
-                 ├─── Se for Tiro ──► Game Over (Fim de jogo)
-                 └─── Se for Cura ──► Cura Absorvida
-
----
-
 ## 📱 Controles (Mobile / Simulação)
 
 * **Touch / Mouse:** Deslize o dedo ou clique e arraste para orbitar e rotacionar os escudos ao redor do núcleo central, alternando rapidamente entre as frentes de defesa.
