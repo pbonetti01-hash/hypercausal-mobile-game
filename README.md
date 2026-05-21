@@ -2,7 +2,7 @@
 
 # 🪐 Core Defender - Core Loop Demo
 
-**Ball Defender** é um jogo mobile *hypercasual* de sobrevivência minimalista ambientado em Marte. O objetivo é gerenciar escudos orbitais para proteger o núcleo de uma fábrica contra disparos constantes vindos de direções cardinais, tentando resistir pelo maior tempo possível.
+**Core Defender** é um jogo mobile *hypercasual* de sobrevivência minimalista ambientado em Marte. O objetivo é gerenciar escudos orbitais para proteger o núcleo de uma fábrica contra disparos constantes vindos de direções cardinais, tentando resistir pelo maior tempo possível.
 
 Este repositório contém a demonstração do **Core Loop (mecanismo principal de jogabilidade)** do projeto.
 
