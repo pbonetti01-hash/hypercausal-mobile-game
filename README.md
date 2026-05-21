@@ -1,5 +1,4 @@
-<img width="620" height="350" alt="image" src="https://github.com/user-attachments/assets/dfaef42a-d532-4e19-a8a2-d88332e633bb" />
-
+<img width="689" height="337" alt="Captura de tela 2026-05-21 114040" src="https://github.com/user-attachments/assets/0baa25ac-cfe7-4512-afd9-70c4b5e9df4f" />
 
 # 🪐 Ball Defender - Core Loop Demo
 
@@ -7,7 +6,7 @@
 
 Este repositório contém a demonstração do **Core Loop (mecanismo principal de jogabilidade)** do projeto.
 
----
+<img width="620" height="349" alt="Captura de tela 2026-05-21 110035" src="https://github.com/user-attachments/assets/d0e0d431-7397-4005-a957-505c661ad0c3" />
 
 ## 🕹️ Mecânicas Principais
 
@@ -21,7 +20,7 @@ Este repositório contém a demonstração do **Core Loop (mecanismo principal d
 
 * **Touch / Mouse:** Deslize o dedo ou clique e arraste para orbitar e rotacionar os escudos ao redor do núcleo central, alternando rapidamente entre as frentes de defesa.
 
----
+<img width="706" height="343" alt="Captura de tela 2026-05-21 105557" src="https://github.com/user-attachments/assets/99d03c6c-96db-4115-983b-279ce426557c" />
 
 ## 🛠️ Requisitos Técnicos
 
