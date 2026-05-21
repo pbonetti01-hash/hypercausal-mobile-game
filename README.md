@@ -1,6 +1,6 @@
 <img width="689" height="337" alt="Captura de tela 2026-05-21 114040" src="https://github.com/user-attachments/assets/0baa25ac-cfe7-4512-afd9-70c4b5e9df4f" />
 
-# 🪐 Ball Defender - Core Loop Demo
+# 🪐 Core Defender - Core Loop Demo
 
 **Ball Defender** é um jogo mobile *hypercasual* de sobrevivência minimalista ambientado em Marte. O objetivo é gerenciar escudos orbitais para proteger o núcleo de uma fábrica contra disparos constantes vindos de direções cardinais, tentando resistir pelo maior tempo possível.
 
